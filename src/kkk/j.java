@@ -8,5 +8,6 @@ public static void main(String[] args) {
 	//array[4]=1+Math.max(array[0],array[1],array[3]);
 	String show=""+array.length+1;
 	System.out.println(g);
+	//just wth are you doing mate
 }
 }
